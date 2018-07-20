@@ -1,0 +1,13 @@
+.big{
+	width:80%;
+	padding-bottom:80%;
+	margin: auto;
+}	
+.small{
+	background-color: yellow;
+    border-radius:20%;
+	padding-bottom:31%;
+	width:31%;
+	margin:1%;
+	float:left;
+}
